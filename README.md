@@ -11,6 +11,7 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
  - /labels
    - /pokemon-sv
      - /donar.png (*Yo, Sprite de Gholdengo - [Emmuffin](https://twitter.com/Ernmuffin)*)
+     - /seguir.png (*Yo, Sprite de Tandemaus - [G~](https://bsky.app/profile/justtr4sh.pmd.social)*)
  - /codes
    - /labels
      - /donar
@@ -37,6 +38,7 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
   - /labels
     - /pokemon-sv
       - /donar.png (*Me, Gholdengo Sprite - [Emmuffin](https://twitter.com/Ernmuffin)*)
+      - /seguir.png (*Me, Tandemaus Sprite - [G~](https://bsky.app/profile/justtr4sh.pmd.social)*)
   - /codes
     - /labels
       - /donar
