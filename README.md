@@ -5,6 +5,7 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
 ## Estructura y Créditos
  - /alerts
  - /chat
+   - /pokemon-sv.png (Yo)
  - /fonts
    - /pokemon-sv
      - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
@@ -22,6 +23,7 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
 ## Structure and Credits
  - /alerts
   - /chat
+    - /pokemon-sv.png (Me)
   - /fonts
     - /pokemon-sv
       - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
