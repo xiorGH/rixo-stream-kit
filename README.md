@@ -22,6 +22,9 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
    - /sm64
      - /donar.png (*Yo*)
      - /seguir.png (*Yo*)
+   - /chat (Estos son especiales, así que los créditos no sé como darlos)
+     - /donar.png
+     - /seguir.png 
  
  Estos recursos fueron hechos con **propósitos personales no-comerciales**, dándole créditos a los autores originales.
  
@@ -49,5 +52,8 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
     - /sm64
       - /donar.png (*Me*)
       - /seguir.png (*Me*)
+    - /chat (These one are special, so i have no idea which credits give)
+     - /donar.png
+     - /seguir.png
  
 This resources were made with **non-commercial personal purposes**, giving credits to the original authors.
