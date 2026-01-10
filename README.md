@@ -12,6 +12,7 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
    - /sm64.ttf (*Super Star 64 (Extendida) - Yo, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
    - /hunger-games.ttf (*Pixelated Writer (Extendida & Modificada) - Yo. Pixelated Elegance (Original) - [GGBotNet](https://ggbot.net/)*)
    - /minecraft.ttf - (*Minecraft - [JDGraphics](https://www.fontspace.com/jdgraphics)*)
+   - /undertale.ttf - (*Determination Sans - [Abacadaba](https://www.fontspace.com/abacadaba)*)
  - /labels
    - /pokemon-sv
      - /donar.png (*Yo, Sprite de Gholdengo - [Emmuffin](https://twitter.com/Ernmuffin)*)
@@ -40,6 +41,7 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
     - /sm64.ttf (*Super Star 64 (Extended) - Me, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
     - /hunger-games.ttf (*Pixelated Writer (Extended & Modified) - Me, Pixelated Elegance (Original) - [GGBotNet](https://ggbot.net/)*)
     - /minecraft.ttf - (*Minecraft - [JDGraphics](https://www.fontspace.com/jdgraphics)*)
+    - /undertale.ttf - (*Determination Sans - [Abacadaba](https://www.fontspace.com/abacadaba)*)
   - /labels
     - /pokemon-sv
       - /donar.png (*Me, Gholdengo Sprite - [Emmuffin](https://twitter.com/Ernmuffin)*)
