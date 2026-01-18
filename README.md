@@ -21,8 +21,8 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
      - /donar.png (*Yo*)
      - /seguir.png (*Yo*)
    - /deltarune
-     - /donar.png (*Yo, Spamton Sprite - [Mamar11](https://www.reddit.com/user/Mamar11/)*)
-     - /seguir.png (*Yo, Ralsei Sprite - [Toby Fox](https://bsky.app/profile/tobyfox.undertale.com)*)
+     - /donar.png (*Yo, Sprite de Spamton - [Mamar11](https://www.reddit.com/user/Mamar11/)*)
+     - /seguir.png (*Yo, Sprite de Ralsei - [Toby Fox](https://bsky.app/profile/tobyfox.undertale.com)*)
    - /chat (Estos varían constantemente, así que no sé como dar sus respectivos créditos)
      - /hunger-games
        - /donar.png
@@ -39,6 +39,7 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
     - /pokemon-sv.png (*Me*)
     - /sm64.png (*Me*)
     - /hunger-games (*Me*)
+    - /deltarune.png (*Me*)
   - /fonts
     - /pokemon-sv.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
     - /sm64.ttf (*Super Star 64 (Extended) - Me, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
@@ -52,6 +53,9 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
     - /sm64
       - /donar.png (*Me*)
       - /seguir.png (*Me*)
+    - /deltarune
+     - /donar.png (*Me, Spamton Sprite - [Mamar11](https://www.reddit.com/user/Mamar11/)*)
+     - /seguir.png (*Me, Ralsei Sprite - [Toby Fox](https://bsky.app/profile/tobyfox.undertale.com)*)
     - /chat (These one are special because change constantly, so i have no idea which credits give)
       - /hunger-games
          - /donar.png
